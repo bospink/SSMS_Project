@@ -2,4 +2,6 @@
 
 ## Covid 19 Data Exploration 
 
-### Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
+### For this Project I will be performing simple EDA on Covid Deaths and Covid Vaccinations datasets, to understand data, discover any pattern, anomalies or any findings which I will further use for my second project **[SQL Queries for Data Visualization in Tableau](https://github.com/bospink/SQL_Queries_Tableau_Project)**.
+
+![SQL_EDA_Covid](https://github.com/bospink/SSMS_Project/assets/126882792/94e2d242-4a99-42fe-a34d-27902c5a9dd7)
